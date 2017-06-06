@@ -61,11 +61,11 @@
             mid="1"
             MadCap:conditions="Default.ScreenOnly"
             comment="img">KimImage Screentip</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">ملاحظة نص كم</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xhtml-img-alt"
         phase-name="pretrans"><source>KimImage AltText</source><seg-source><mrk
